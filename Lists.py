@@ -23,6 +23,3 @@ cars.append("Honda")
 
 # cars.sort()
 # print(cars)
-newList = []
-for x in cars:
-    print(x)
